@@ -1,0 +1,21 @@
+{
+  "NumberOfSpots": 100,
+  "SpotSize": 4,
+  "FreeMinutes": 10,
+  "VehicleTypes": [
+    {
+      "Code": "CAR",
+      "Name": "Bil",
+      "Size": 4,
+      "VehiclesPerSpot": 1,
+      "HourlyPrice": 20
+    },
+    {
+      "Code": "MC",
+      "Name": "MC",
+      "Size": 2,
+      "VehiclesPerSpot": 2,
+      "HourlyPrice": 10
+    }
+  ]
+}

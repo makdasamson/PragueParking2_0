@@ -1,0 +1,516 @@
+{
+  "Spots": [
+    {
+      "Number": 1,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 2,
+      "Size": null,
+      "Vehicles": [
+        {
+          "$type": "CAR",
+          "RegNumber": "ABC123",
+          "ArrivalTime": "2026-10-27T19:29:34.5014577+01:00"
+        }
+      ]
+    },
+    {
+      "Number": 3,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 4,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 5,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 6,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 7,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 8,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 9,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 10,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 11,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 12,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 13,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 14,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 15,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 16,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 17,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 18,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 19,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 20,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 21,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 22,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 23,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 24,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 25,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 26,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 27,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 28,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 29,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 30,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 31,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 32,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 33,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 34,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 35,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 36,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 37,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 38,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 39,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 40,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 41,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 42,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 43,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 44,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 45,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 46,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 47,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 48,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 49,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 50,
+      "Size": null,
+      "Vehicles": [
+        {
+          "$type": "MC",
+          "RegNumber": "MC222",
+          "ArrivalTime": "2026-10-27T18:56:23.3675318+01:00"
+        }
+      ]
+    },
+    {
+      "Number": 51,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 52,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 53,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 54,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 55,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 56,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 57,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 58,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 59,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 60,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 61,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 62,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 63,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 64,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 65,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 66,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 67,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 68,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 69,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 70,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 71,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 72,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 73,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 74,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 75,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 76,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 77,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 78,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 79,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 80,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 81,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 82,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 83,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 84,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 85,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 86,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 87,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 88,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 89,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 90,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 91,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 92,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 93,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 94,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 95,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 96,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 97,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 98,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 99,
+      "Size": null,
+      "Vehicles": []
+    },
+    {
+      "Number": 100,
+      "Size": null,
+      "Vehicles": []
+    }
+  ]
+}
